@@ -1,6 +1,6 @@
 name = "shifter"
+pages_build_output_dir = "dist"
 compatibility_date = "2024-03-20"
-# pages_build_output_dir = "dist"
 
 [vars]
 # Production 环境变量占位
