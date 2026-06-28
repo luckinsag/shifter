@@ -1,0 +1,37 @@
+{
+  "name": "temp-shifter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "cf-dev": "concurrently \"npm run dev\" \"npx wrangler pages dev --proxy 5173\"",
+    "deploy": "npm run build && npx wrangler pages deploy dist --project-name shifter"
+  },
+  "dependencies": {
+    "i18next": "^26.3.3",
+    "i18next-browser-languagedetector": "^8.2.1",
+    "jose": "^6.2.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-hot-toast": "^2.6.0",
+    "react-i18next": "^17.0.8",
+    "react-router-dom": "^7.18.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "autoprefixer": "^10.5.2",
+    "concurrently": "^10.0.3",
+    "oxlint": "^1.69.0",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "vite": "^8.1.0",
+    "wrangler": "^4.105.0"
+  }
+}

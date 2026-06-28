@@ -1,0 +1,13 @@
+name = "shifter"
+compatibility_date = "2024-03-20"
+# pages_build_output_dir = "dist"
+
+[vars]
+# Production 环境变量占位
+# GOOGLE_CLIENT_ID = "xxx"
+# APP_URL = "https://shifter.pages.dev"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "shifter-db"
+database_id = "bc89a747-6937-413d-8d2f-5394476c0021"

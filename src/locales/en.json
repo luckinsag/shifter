@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Get started with Google",
+    "unauthorized": "You haven't been invited yet. Please ask an admin to send you an invitation.",
+    "unauthorized_title": "Access Denied",
+    "backToHome": "Back to Home"
+  },
+  "shifts": {
+    "createTable": "Create Shift Table",
+    "shiftType": "Shift Type",
+    "share": "Share"
+  },
+  "attendance": {
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "note": "Note"
+  },
+  "presets": {
+    "title": "Shift Presets",
+    "setDefault": "Set as Default",
+    "setDefault_badge": "Default"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Confirm"
+  },
+  "landing": {
+    "hero": {
+      "headline": "Shift Scheduling, Simplified",
+      "subheadline": "The free shift management tool for restaurants, retail, and event teams. Sign in with Google and start in seconds — no registration needed.",
+      "cta": "Get started with Google",
+      "free_badge": "Free · No sign-up"
+    },
+    "features": {
+      "title": "Everything you need, nothing you don't",
+      "f1_title": "Sign in with Google instantly",
+      "f1_desc": "No registration required. Accept an invitation and log in with your existing Google account.",
+      "f2_title": "Real-time shift sharing",
+      "f2_desc": "When managers update the schedule, it reflects immediately for every team member. No more miscommunication.",
+      "f3_title": "One-tap attendance logging",
+      "f3_desc": "Save preset shifts and log attendance in one click. Edit actual hours and add notes whenever needed.",
+      "f4_title": "Monthly attendance reports",
+      "f4_desc": "Summarize work days and total hours in one click. Export to CSV for payroll in seconds."
+    },
+    "usecases": {
+      "title": "Trusted by teams like yours",
+      "uc1_label": "Restaurants & Cafes",
+      "uc1_desc": "Define shift types per role (front-of-house, kitchen). See weekly staffing at a glance on the calendar.",
+      "uc2_label": "Retail & Apparel",
+      "uc2_desc": "Handle peak-season staffing smoothly. Collect shift preferences and finalize schedules on everyone's phone.",
+      "uc3_label": "Events & Temp Staffing",
+      "uc3_desc": "Create a separate shift table per project. Invite members with a single email address."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "q1": "Is it free?",
+      "a1": "Yes, Shifter is completely free to use right now. No account registration required.",
+      "q2": "How many people can use it?",
+      "a2": "There is no limit. Shifter works for small teams and teams of dozens.",
+      "q3": "Does it work on mobile?",
+      "a3": "Yes. The responsive design works comfortably on smartphones, tablets, and desktops.",
+      "q4": "Is my data safe?",
+      "a4": "Shifter runs on Cloudflare's global edge network and all connections are secured with HTTPS."
+    },
+    "footer": {
+      "tagline": "Simple shift management for small teams",
+      "copyright": "© 2026 Shifter. All rights reserved."
+    },
+    "seo": {
+      "title": "Shifter — Free Shift Scheduling App for Small Teams",
+      "description": "Free shift management app for restaurants, retail, and event teams. Sign in with Google, share schedules in real time, and log attendance from any device. No registration needed."
+    }
+  }
+}

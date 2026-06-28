@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /settings
+Disallow: /auth/
+Disallow: /api/
+
+Sitemap: https://shifter.pages.dev/sitemap.xml

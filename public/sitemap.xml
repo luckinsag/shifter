@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://shifter.pages.dev/</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ja"      href="https://shifter.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://shifter.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://shifter.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en"      href="https://shifter.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://shifter.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://shifter.pages.dev/unauthorized</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+</urlset>

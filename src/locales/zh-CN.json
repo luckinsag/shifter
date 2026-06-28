@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "dashboard": "仪表盘",
+    "admin": "管理后台",
+    "settings": "个人设置",
+    "logout": "退出登录"
+  },
+  "auth": {
+    "login": "使用 Google 免费登录",
+    "unauthorized": "您尚未被邀请加入任何排班，请联系管理员获取邀请。",
+    "unauthorized_title": "无法访问",
+    "backToHome": "返回首页"
+  },
+  "shifts": {
+    "createTable": "创建班次表",
+    "shiftType": "班次类型",
+    "share": "排班共享"
+  },
+  "attendance": {
+    "checkIn": "上班打卡",
+    "checkOut": "下班打卡",
+    "note": "备注"
+  },
+  "presets": {
+    "title": "班次预设",
+    "setDefault": "设为默认",
+    "setDefault_badge": "默认"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "confirm": "确定"
+  },
+  "landing": {
+    "hero": {
+      "headline": "排班管理，化繁为简",
+      "subheadline": "专为餐饮、零售、活动团队打造的免费排班工具。Google 账号一键登录，手机电脑实时同步，无需注册。",
+      "cta": "使用 Google 免费登录",
+      "free_badge": "免费 · 无需注册"
+    },
+    "features": {
+      "title": "只保留最需要的功能",
+      "f1_title": "Google 账号即刻登录",
+      "f1_desc": "无需注册。接受邀请后，直接使用已有的 Google 账号登录即可开始使用。",
+      "f2_title": "排班实时共享",
+      "f2_desc": "管理员更新排班后，员工日历即时同步，彻底消除沟通误差。",
+      "f3_title": "一键出勤打卡",
+      "f3_desc": "提前设置班次预设，一键完成打卡。实际时间修改与备注填写同样便捷。",
+      "f4_title": "月度出勤报表",
+      "f4_desc": "一键汇总出勤天数与总工时，支持导出 CSV，直接用于薪资核算。"
+    },
+    "usecases": {
+      "title": "这些团队正在使用 Shifter",
+      "uc1_label": "餐厅 · 咖啡厅",
+      "uc1_desc": "按前厅/后厨分别设置班次类型，在日历上一眼掌握每周人员配置。",
+      "uc2_label": "零售 · 服装",
+      "uc2_desc": "旺季补招也能从容应对。从收集意向到确认排班，全程在手机上完成。",
+      "uc3_label": "活动 · 兼职派遣",
+      "uc3_desc": "按项目创建独立班次表，输入一个邮箱地址即可完成成员邀请。"
+    },
+    "faq": {
+      "title": "常见问题",
+      "q1": "可以免费使用吗？",
+      "a1": "是的，Shifter 目前完全免费，也不需要注册账号。",
+      "q2": "支持多少人同时使用？",
+      "a2": "没有人数限制，适合小型团队到数十人规模的组织。",
+      "q3": "支持手机端使用吗？",
+      "a3": "支持。响应式设计确保在手机、平板和电脑上都能流畅使用。",
+      "q4": "数据安全吗？",
+      "a4": "Shifter 部署在 Cloudflare 全球边缘网络上，全程 HTTPS 加密传输。"
+    },
+    "footer": {
+      "tagline": "让小团队的排班管理更简单",
+      "copyright": "© 2026 Shifter. 保留所有权利。"
+    },
+    "seo": {
+      "title": "Shifter｜免费排班管理软件，小团队首选",
+      "description": "专为餐饮、零售、活动团队设计的免费排班管理工具。Google 账号一键登录，实时同步排班，手机电脑均可打卡记录。无需注册，立即使用。"
+    }
+  }
+}
